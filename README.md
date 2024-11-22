@@ -8,7 +8,7 @@ Download and use our mobile application (km Locator), or any other application o
 Use km Locator. The Km Locator app is designed to assist employees, consultants and contractors in navigating the WCG road network within the
 Western Cape region. It provides an interactive map interface that displays various road details, including road numbers, lengths, and points of interest. Users can utilize features such as real-time location tracking, road point markers, and customized overlays for different types of roads, enhancing their navigation experience in the field. The app also leverages the device's camera to allow users to capture and report relevant road conditions, incidents, or observations directly through the app. This feature enables users to contribute valuable information to improve the overall functionality and accuracy of the app. To offer accurate routing and information based on the user's current position, the app collects and processes location data.
   Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at Danielle.LeRoux@westerncape.gov.za.
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at wcg.systems@icloud.com.
 SUMMARY OF KEY POINTS
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.
 What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
@@ -62,7 +62,7 @@ We have implemented appropriate and reasonable technical and organisational secu
 6.	DO WE COLLECT INFORMATION FROM MINORS?
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
 We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the
-Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent€™s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at Danielle.LeRoux@westerncape.gov.za.
+Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent€™s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at wcg.systems@icloud.com.
 7.	WHAT ARE YOUR PRIVACY RIGHTS?
 In Short: You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.
@@ -71,7 +71,7 @@ Account Information
 If you would at any time like to review or change the information in your account or terminate your account, you can:
   Contact the Transport Infrastructure Branch's Systems Team for assistance
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
-If you have questions or comments about your privacy rights, you may email us at Danielle.LeRoux@westerncape.gov.za.
+If you have questions or comments about your privacy rights, you may email us at wcg.systems@icloud.com.
 8.	CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 9.	DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
@@ -84,7 +84,7 @@ If you are unsatisfied with the manner in which we address any complaint with re
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated 'Revised' date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 11.	HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at Danielle.LeRoux@westerncape.gov.za or contact us by post at:
+If you have questions or comments about this notice, you may email us at wcg.systems@icloud.com or contact us by post at:
 Western Cape Goverment, Department of Infrastructure, Transport Infrastructure
 9 Dorp Street
 Cape Town City Centre
